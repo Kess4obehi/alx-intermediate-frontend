@@ -1,0 +1,6 @@
+Steps to install SASS:
+
+1. Installed Node.js version 20.16 using nvm.
+2. Verified Node installation using `node -v`.
+3. Installed Sass using `npm install sass`.
+4. Verified Sass installation using `npx sass --version`.
